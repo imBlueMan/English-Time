@@ -1,4 +1,4 @@
-### Pronans Subject
+#### Pronans Subject
 
 ```
 I, He, She, It, You, We, They
@@ -34,7 +34,7 @@ My parents love Ongee: They
 My parents and I love Ongee: We
 ```
 
-### Subjective Pronouns:
+#### Subjective Pronouns:
 
 ```
 I am: I'm. 
@@ -112,7 +112,7 @@ This isn't their ball.
 Our videos are helpful to you.
 ```
 
-### Possessive Pronouns:
+#### Possessive Pronouns:
 
 ```
 I    My    Mine.
@@ -133,7 +133,7 @@ This money is mine, not yours.
 Dokdo is ours, not theirs.
 ```
 
-### checkup:
+#### Checkup:
 
 ```
 This is a dog.
@@ -178,7 +178,7 @@ She is __ girl. __ girl is pretty. a, the
 I can see __ sky. the
 ```
 
-### Prepositions: in/ on/ under
+#### Prepositions: in/ on/ under
 
 ```
 The cat is  in the box.
@@ -201,7 +201,7 @@ No, they aren't. but They are under the chair.
 
 ```
 
-### Adjectives
+#### Adjectives
 
 ```
 It's a marker. It's a black marker.
@@ -234,7 +234,7 @@ They're __ oranges. X
 Where __ __ oranges? are/ the
 They're __ the chair. under
 ```
-### Have | Has 
+#### Have | Has 
 
 ```
 I       have
@@ -253,7 +253,7 @@ The girl __ long hair.
 I __ a friend.
 ```
 
-### Does | Do 
+#### Does | Do 
 
 ```
 I don't have.
@@ -265,7 +265,7 @@ We don't have.
 They don't have.
 ```
 
-### Fill in the Blanks 
+#### Fill in the Blanks 
 
 ```
 She __ __ short hair.
@@ -302,7 +302,7 @@ They __ __ a bus.
 __ __ have a bus?
 ```
 
-### Find the mistakes 
+#### Find the mistakes 
 
 ```
 They has two watches.
