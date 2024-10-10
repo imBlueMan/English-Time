@@ -1,4 +1,4 @@
-# Pronans Subject
+### Pronans Subject
 
 ```
 I, He, She, It, You, We, They
@@ -34,7 +34,7 @@ My parents love Ongee: They
 My parents and I love Ongee: We
 ```
 
-# subjective Pronouns:
+### Subjective Pronouns:
 
 ```
 I am: I'm. 
@@ -67,7 +67,7 @@ we're not students.
 They're not students.
 ```
 
-# *How to make Questions using subjective pronouns and `b` verbs (am, is, are)
+#### How to make Questions using subjective pronouns and `b` verbs (am, is, are)
 
 ```
 Am i a lose? No, I'm not.
@@ -92,7 +92,7 @@ That is a flower.
 Those are flowers. 
 ```
 
-# Possessive Adjectives:  //Please don't be confused.
+#### Possessive Adjectives:  //Please don't be confused.
 
 ```
 I My. something belongs to me.
@@ -112,7 +112,7 @@ This isn't their ball.
 Our videos are helpful to you.
 ```
 
-# Possessive Pronouns:
+### Possessive Pronouns:
 
 ```
 I    My    Mine.
@@ -265,7 +265,7 @@ We don't have.
 They don't have.
 ```
 
-### fill in the Blanks 
+### Fill in the Blanks 
 
 ```
 She __ __ short hair.
@@ -302,7 +302,7 @@ They __ __ a bus.
 __ __ have a bus?
 ```
 
-### find the mistakes 
+### Find the mistakes 
 
 ```
 They has two watches.
