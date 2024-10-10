@@ -1,4 +1,6 @@
-pronans subject: 
+# pronans subject
+
+```
 I, He, She, It, You, We, They
 
 Jenny Sings.
@@ -30,11 +32,11 @@ Seoul is a city: It
 My parents love Ongee: They
 
 My parents and I love Ongee: We
+```
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# subjective Pronouns:
 
-subjective Pronouns:
-
+```
 I am: I'm. 
 He is: He's.
 She is: She's.
@@ -63,8 +65,11 @@ It's not a student.
 You're not a student.
 we're not students.
 They're not students.
+```
 
-*How to make Questions using subjective pronouns and `b` verbs (am, is, are)
+# *How to make Questions using subjective pronouns and `b` verbs (am, is, are)
+
+```
 Am i a lose? No, I'm not.
 Is he a student? Yes, He is.
 Is it a student? Yes, It is.
@@ -85,10 +90,11 @@ That is a flower.
 
 *These are flowers.
 Those are flowers. 
+```
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Possessive Adjectives:  // Pleas don't be confiooz.
+# Possessive Adjectives:  // Pleas don't be confiooz.
 
+```
 I My. somthing blong to me.
 He His.
 She Her.
@@ -104,11 +110,11 @@ This isn't my ball.
 This isn't your ball.
 This isn't their ball.
 Our videos are helpful to you.
+```
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Possessive Pronouns:
 
-Possessive Pronouns:
-
+```
 I    My    Mine.
 He   His   His.
 She  Her   Hers.
@@ -125,11 +131,11 @@ That lipstick is hers.
 That sports car is his.
 This money is mine, not yours.
 Dokdo is ours, not theirs.
+```
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### check up:
 
-check up:
-
+```
 This is a dog.
 Those are ballons.
 Are these pens? No they aren't.
@@ -150,9 +156,9 @@ This book is my. mine
 That is he house. his
 She name is Jenny. her name is Jenny.
 It's ours house. It's our house. Or This are our house.
-
+```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
 a/an            the
 any one thing   specific thing
 first time      second time
@@ -172,9 +178,11 @@ I see __ octopus. an
 It's __ pen. __ pen is red. a, the
 She is __ girl. __ girl is pretty. a, the
 I can see __ sky. the
+```
 
----------------------Prepositions: in/ on/ under----------------------------------------------------------------------------------------------------------------------------------------------
+# Prepositions: in/ on/ under
 
+```
 The cat is  in the box.
             on the chair.
             under the table.
@@ -193,9 +201,11 @@ Yes, it is.
 Are the snakes __ ? in the chair
 No, they aren't. but They are under the chair.
 
+```
 
--------------------------------------Adjectives--------------------------------------------------------------------------------
+### Adjectives
 
+```
 It's a marker. It's a black marker.
 
 It's a bird. It's a blue bird. It's a small bird.
@@ -225,8 +235,10 @@ It's __ the chair. on
 They're __ oranges. X
 Where __ __ oranges? are/ the
 They're __ the chair. under
+```
+### Have | Has 
 
---------------------------------Have | Has ------------------------------------------------------------
+```
 I       have
 He      has
 She     has
@@ -241,10 +253,11 @@ He __ an umbrella.
 The boys __ caps.
 The girl __ long hair.
 I __ a friend.
+```
 
+### Does | Do 
 
---------------------------------- Does | Do -----------------------------------------------------------------
-
+```
 I don't have.
 He doesn't have.
 She doesn't have.
@@ -252,8 +265,11 @@ It doesn't have.
 You don't have.
 We don't have.
 They don't have.
+```
 
------- fill in the Blanks ----------------
+### fill in the Blanks 
+
+```
 She __ __ short hair.
 He __ __ an umbrella.
 I __ __ a wife.
@@ -286,9 +302,11 @@ __ __ have a ball?
 They __ a car.
 They __ __ a bus.
 __ __ have a bus?
+```
 
------- find the mistakes -------------
+### find the mistakes 
 
+```
 They has two watches.
 Does they have three watches?
 No, we don't.
@@ -296,4 +314,4 @@ No, we don't.
 She have a dress.
 Do she have a hat?
 No, she do.
-
+```
