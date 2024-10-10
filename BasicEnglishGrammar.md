@@ -1,4 +1,4 @@
-# pronans subject
+# Pronans Subject
 
 ```
 I, He, She, It, You, We, They
