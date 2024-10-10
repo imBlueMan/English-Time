@@ -92,10 +92,10 @@ That is a flower.
 Those are flowers. 
 ```
 
-# Possessive Adjectives:  // Pleas don't be confiooz.
+# Possessive Adjectives:  //Please don't be confused.
 
 ```
-I My. somthing blong to me.
+I My. something belongs to me.
 He His.
 She Her.
 *It Its. // its != it's (it is).
@@ -133,7 +133,7 @@ This money is mine, not yours.
 Dokdo is ours, not theirs.
 ```
 
-### check up:
+### checkup:
 
 ```
 This is a dog.
@@ -156,9 +156,7 @@ This book is my. mine
 That is he house. his
 She name is Jenny. her name is Jenny.
 It's ours house. It's our house. Or This are our house.
-```
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-```
+
 a/an            the
 any one thing   specific thing
 first time      second time
@@ -180,7 +178,7 @@ She is __ girl. __ girl is pretty. a, the
 I can see __ sky. the
 ```
 
-# Prepositions: in/ on/ under
+### Prepositions: in/ on/ under
 
 ```
 The cat is  in the box.
